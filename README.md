@@ -1,0 +1,2 @@
+# Sodao.Dapper
+base dapper
